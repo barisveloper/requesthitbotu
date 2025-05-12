@@ -2,6 +2,8 @@
 
 Bu proje, web sitelerindeki içeriklerin görünürlüğünü artırmak için kullanılan **İçerik Hit Botu** sistemini tanıtan bir rehber ve araç seti sunar. Sistem, kullanıcı davranışlarını taklit ederek içeriklerin arama motorlarında daha dikkat çekici hale gelmesini sağlar.
 
+[Telegram üzerinden iletişime geçebilirsiniz](https://t.me/baneseo)
+
 ---
 
 ## İçerik Hit Botu Nedir?
