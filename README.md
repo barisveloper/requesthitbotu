@@ -1,6 +1,6 @@
-# İçerik Hit Botu
+# Google Hit Botu
 
-Bu proje, web sitelerindeki içeriklerin görünürlüğünü artırmak için kullanılan **İçerik Hit Botu** sistemini tanıtan bir rehber ve araç seti sunar. Sistem, kullanıcı davranışlarını taklit ederek içeriklerin arama motorlarında daha dikkat çekici hale gelmesini sağlar.
+Bu proje, web sitelerindeki içeriklerin görünürlüğünü artırmak için kullanılan **Google Hit Botu** sistemini tanıtan bir rehber ve araç seti sunar. Sistem, kullanıcı davranışlarını taklit ederek içeriklerin arama motorlarında daha dikkat çekici hale gelmesini sağlar.
 
 Bu hit botu sayesinde sitelerinizi 1.2. sayfadan yarım saat içinde 1.sıraya taşıyabilirsiniz. 
 
