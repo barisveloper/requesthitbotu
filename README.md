@@ -6,4 +6,4 @@ Her bot gibi: **Cookie**, **Proxy** ve **Fingerprint** API ile çalışmaktadır
 
 **Not:** Sadece bot satılmaktadır, cookie, proxy ve fingerprint kullanım maliyetleri size aittir.
 
-Test / Deneme imkanı verilmektedir, detaylı bilgi için: [Telegram üzerinden iletişime geçebilirsiniz](https://t.me/baneseo)
+Test / Deneme imkanı verilmektedir, detaylı bilgi için: [Telegram üzerinden iletişime geçebilirsiniz](https://t.me/remedyseo)
